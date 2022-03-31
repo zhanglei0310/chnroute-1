@@ -1398,6 +1398,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*dotvpn\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*doub\\.io\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*doubibackup\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*doubleclick\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*doubmirror\\.cf\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*dougscripts\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*douhokanko\\.net\$" } on-error={}
@@ -2302,6 +2303,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*google\\.vg\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*google\\.vu\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*google\\.ws\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*googleapis-cn\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*googleapis\\.cn\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*googleapis\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*googleapps\\.com\$" } on-error={}
@@ -3839,6 +3841,7 @@
 :do { add forward-to=$dnsserver type=FWD regexp=".*openervpn\\.in\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*openid\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*openleaks\\.org\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD regexp=".*opensea\\.io\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*opensource\\.google\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*opentech\\.fund\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD regexp=".*openvpn\\.net\$" } on-error={}

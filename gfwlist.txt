@@ -1395,6 +1395,7 @@ dotsub.com
 dotvpn.com
 doub.io
 doubibackup.com
+doubleclick.net
 doubmirror.cf
 dougscripts.com
 douhokanko.net
@@ -2299,6 +2300,7 @@ google.tt
 google.vg
 google.vu
 google.ws
+googleapis-cn.com
 googleapis.cn
 googleapis.com
 googleapps.com
@@ -3836,6 +3838,7 @@ opendn.xyz
 openervpn.in
 openid.net
 openleaks.org
+opensea.io
 opensource.google
 opentech.fund
 openvpn.net
